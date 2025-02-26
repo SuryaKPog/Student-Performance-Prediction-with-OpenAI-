@@ -8,7 +8,7 @@ This project aims to predict students' academic performance (CGPA for the next s
 
 The model leverages OpenAI's API for predictions and provides insights to help educators identify at-risk students for targeted interventions such as tutoring and counseling.
 
-✨ Features
+✨ Features:
 
 🚀 Predicts CGPA based on multiple factors🤖 Utilizes OpenAI's API for inference📊 Helps educators take proactive measures to support students💻 Simple and efficient web interface for input and results
 
